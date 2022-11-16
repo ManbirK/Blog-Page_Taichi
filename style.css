@@ -1,0 +1,12 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_mainDiv h4, p{
+
+margin-left: 20px;
+}
+.travel_mainDiv{
+    padding : 10px;
+    border: 2px solid rgb(130, 127, 127);
+}
